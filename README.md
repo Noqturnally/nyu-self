@@ -1,5 +1,5 @@
 # Nyu 
 
-Nyu, The successor of Jarvis A.I  [![YourActionName Actions Status](https://github.com/{userName}/{repoName}/workflows/{workflowName}/badge.svg)](https://github.com/{userName}/{repoName}/actions)
+Nyu, The successor of Jarvis A.I  [![nyu-self](https://github.com/Noqturnally/nyu-self/tree/main/.github/workflows/badge.svg)](https://github.com/Noqturnally/nyu-self/actions)
 
 
