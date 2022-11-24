@@ -22,4 +22,4 @@ Run the python file or generated exe `nyu-self.exe` or `nyu-main.py`
 
 This error pops up mostly because you are using a linux system, COMTYPES doesnt support linux
 
-### What if i want to add more commands, How do i do so
+### I want to add more commands, How do i do that
