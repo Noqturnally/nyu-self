@@ -16,5 +16,5 @@ The following pips must be installed before using
 > pip install json 
 
 ```
-after that open up terminal on linux and type './install.sh' on the downloaded directory
-if on windows run 'setup.exe'
+after that open up terminal on linux and type `./install.sh` on the downloaded directory
+if on windows run `setup.exe`
