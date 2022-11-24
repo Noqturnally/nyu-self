@@ -6,6 +6,7 @@ Nyu, The successor of Jarvis A.I  [![nyu-self](https://github.com/Noqturnally/ny
 
 The following pips must be installed before using
 
+```
 > pip install SpeechRecognition
 > pip install pyttsx3
 > pip install wikipedia
@@ -13,3 +14,5 @@ The following pips must be installed before using
 > pip install wolframalpha
 > pip install comtypes
 > pip install json 
+
+```
