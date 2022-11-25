@@ -36,3 +36,8 @@ elif 'open gmail' in statement: >> speak statement in ''
     webbrowser.open_new_tab("gmail.com") >> the tab to open or specific commands
     speak("WOO your account is mine") >> speak this out  as output
     time.sleep(5) >> wait 5 sec
+```
+
+### Can i use this code for my bot? 
+
+ No, sorry you can use the original Jarvis A.I + modify it.
