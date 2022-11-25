@@ -1,8 +1,9 @@
 # Nyu 
 
-Nyu, The successor of Jarvis A.I    [![nyu-self](https://img.shields.io/github/issues/Noqturnally/nyu-self)](https://github.com/Noqturnally/nyu-self/actions)
+Nyu, The successor of Jarvis A.I    [![nyu-self](https://img.shields.io/github/issues/Noqturnally/nyu-self)](https://github.com/Noqturnally/nyu-self/pulls)
+![nyu-release](https://img.shields.io/github/downloads/Noqturnally/nyu-self/total)
 
-## Installation 
+## Installation  
 
 The following pips must be installed before using
 
