@@ -24,14 +24,14 @@ This error pops up mostly because you are using a linux system, COMTYPES doesnt 
 
 ### I want to add more commands, How do i do that
 
-```
+```python
 elif '<command to speak>' in statement:
    <command args>
 ```
 
 As an example, I'm gonna use the open gmail command
 
-```
+```python
 elif 'open gmail' in statement: >> speak statement in ''
     webbrowser.open_new_tab("gmail.com") >> the tab to open or specific commands
     speak("WOO your account is mine") >> speak this out  as output
