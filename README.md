@@ -1,7 +1,7 @@
 # Nyu 
 
-Nyu, The successor of Jarvis A.I    [![nyu-self](https://img.shields.io/github/issues/Noqturnally/nyu-self)](https://github.com/Noqturnally/nyu-self/pulls)
-![nyu-release](https://img.shields.io/github/downloads/Noqturnally/nyu-self/total)
+![nyu](https://img.shields.io/badge/%20%20-nyu--self-informational), The successor of Jarvis A.I    [![nyu-self](https://img.shields.io/github/issues/Noqturnally/nyu-self)](https://github.com/Noqturnally/nyu-self/pulls)
+
 
 ## Installation  
 
